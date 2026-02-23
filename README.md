@@ -1,1 +1,1 @@
-# accelerated_l1_PageRank_experiments
+# Code to reproduce experiments for the paper "Complexity of Classical Acceleration for $\ell_1$-Regularized PageRank"
